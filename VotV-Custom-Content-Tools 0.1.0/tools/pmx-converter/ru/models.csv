@@ -1,0 +1,5 @@
+pmx_file,height_cm,scale,collider,collider_width_cm,collider_depth_cm,max_texture_size,drop_materials,opaque_materials,enabled
+# pmx_file: путь относительно input/ или имя PMX-файла.
+# height_cm: целевая высота в единицах игры; пустое значение использует default_scale.
+# Пустые параметры используют значения из settings.json.
+# Для включения настройки укажите enabled=1.
