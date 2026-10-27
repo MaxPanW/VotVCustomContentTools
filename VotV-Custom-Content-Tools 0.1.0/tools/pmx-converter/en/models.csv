@@ -1,5 +1,0 @@
-pmx_file,height_cm,scale,collider,collider_width_cm,collider_depth_cm,max_texture_size,drop_materials,opaque_materials,enabled
-# pmx_file: path relative to input/ or the PMX filename.
-# height_cm: target in-game height; leave blank to use default_scale.
-# Blank fields use the corresponding values from settings.json.
-# Set enabled=0 to skip a model.
