@@ -1,0 +1,15 @@
+{
+  "output_mode": "game",
+  "game_printer_dir": "%LOCALAPPDATA%\\VotV\\Assets\\meshes\\printer",
+  "local_output_dir": "output",
+  "default_height_cm": 0,
+  "default_scale": 7.625,
+  "collider": "box",
+  "collider_width_cm": 32,
+  "collider_depth_cm": 24,
+  "max_texture_size": 1024,
+  "drop_materials": "",
+  "opaque_materials": "",
+  "cfg_template": "",
+  "replace_managed_output": true
+}
